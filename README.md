@@ -19,30 +19,6 @@ This is a full-featured E-Book Store web application built using the **MERN Stac
 
 ---
 
-## 🖼️ Screenshots
-
-### 1. Home Page
-![Home Page](./image/homepage.jpg)
-
-### 2. User Dashboard
-![User Dashboard](./image/userdashboard.jpg)
-
-### 3. Book Details Page
-![Book Details](./image/bookdetails.jpg)
-
-### 4. Add to Cart
-![Add to Cart](./image/addtocart.jpg)
-
-### 5. Admin Dashboard
-![Admin Dashboard](./image/admindashboard.jpg)
-
-### 6. Add Book Page
-![Add Book](./image/addbook.jpg)
-
-### 7. Orders Page (Admin View)
-![Orders Page](./image/orderpage(admin).jpg)
-
----
 
 ## 🛠️ How to Run the Project
 
